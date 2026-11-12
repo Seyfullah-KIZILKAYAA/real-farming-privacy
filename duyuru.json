@@ -1,0 +1,28 @@
+{
+  "guncelleme": {
+    "en_son": "1.4.0",
+    "zorunlu_alt": "",
+    "metin": {
+      "tr": "Yeni sürümde saman balyalama, paletli Stormvik P430, kanola ve soya var.",
+      "en": "The new version adds straw baling, the tracked Stormvik P430, canola and soybeans."
+    }
+  },
+  "duyurular": [
+    {
+      "id": "2026-11-surum-140",
+      "baslik": {
+        "tr": "Saman zinciri geldi!",
+        "en": "The straw chain is here!"
+      },
+      "metin": {
+        "tr": "Biçerdöverde ALET → SAMAN SIRA ile saman sırası bırak, balya makinesiyle balyala, balya römorkuyla topla ve sundurmada biriktir ya da sat.",
+        "en": "Leave a straw swath with TOOLS → STRAW SWATH on the combine, bale it, collect the bales with a bale wagon and stack them in the shed or sell them."
+      },
+      "dugme": { "tr": "", "en": "" },
+      "url": "",
+      "min_surum": "1.4.0",
+      "max_surum": "",
+      "bitis": "2026-12-31"
+    }
+  ]
+}
