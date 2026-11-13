@@ -1,13 +1,29 @@
 {
   "guncelleme": {
-    "en_son": "1.4.0",
+    "en_son": "1.5.0",
     "zorunlu_alt": "",
     "metin": {
-      "tr": "Yeni sürümde saman balyalama, paletli Stormvik P430, kanola ve soya var.",
-      "en": "The new version adds straw baling, the tracked Stormvik P430, canola and soybeans."
+      "tr": "Yeni sürümde hava tahmini, şeker pancarı, taş toplama, kar küreme, haftalık görevler ve tarla kiralama var.",
+      "en": "The new version adds a weather forecast, sugar beet, stone picking, snow plowing, weekly challenges and field renting."
     }
   },
   "duyurular": [
+    {
+      "id": "2026-11-surum-150",
+      "baslik": {
+        "tr": "Yeni görevler ve kış işleri geldi!",
+        "en": "New challenges and winter jobs are here!"
+      },
+      "metin": {
+        "tr": "Haftalık ve sezonluk görevleri bitir, ödülünü al ya da reklam izleyerek artır. 5 günlük hava tahminiyle hasadı planla, şeker pancarı sök, tarladan taş topla, kışın yolları kür. Tarla kiralayıp satabilir, ürününü sigortalayabilirsin.",
+        "en": "Finish weekly and seasonal challenges, then take the reward or boost it by watching an ad. Plan the harvest with the 5-day forecast, lift sugar beet, pick stones from fields and plow snow in winter. You can also rent and sell fields and insure your crops."
+      },
+      "dugme": { "tr": "", "en": "" },
+      "url": "",
+      "min_surum": "1.5.0",
+      "max_surum": "",
+      "bitis": "2027-01-31"
+    },
     {
       "id": "2026-11-surum-140",
       "baslik": {
