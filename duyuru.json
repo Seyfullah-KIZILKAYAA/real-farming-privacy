@@ -9,6 +9,25 @@
   },
   "duyurular": [
     {
+      "id": "2026-11-geri-bildirim",
+      "baslik": {
+        "tr": "Fikrin ya da bulduğun bir hata mı var?",
+        "en": "Got an idea or found a bug?"
+      },
+      "metin": {
+        "tr": "Oyunda görmek istediğin bir özellik, eklenmesini istediğin bir araç ya da karşılaştığın bir hata varsa bize yaz: k.syntax0@gmail.com\n\nHata bildirirken ne yaptığını, hangi haritada ve hangi araçla olduğunu yazarsan (mümkünse ekran görüntüsüyle) çok daha hızlı düzeltebiliriz. Gelen her öneriyi okuyoruz; bildirilen hatalar sonraki güncellemelerde düzeltiliyor. Teşekkürler, iyi oyunlar!",
+        "en": "Is there a feature you would like to see, a vehicle you want added, or a bug you ran into? Write to us: k.syntax0@gmail.com\n\nWhen reporting a bug, tell us what you were doing, on which map and with which vehicle (with a screenshot if you can) so we can fix it much faster. We read every suggestion, and reported bugs are fixed in upcoming updates. Thanks, and enjoy the game!"
+      },
+      "dugme": {
+        "tr": "",
+        "en": ""
+      },
+      "url": "",
+      "min_surum": "",
+      "max_surum": "",
+      "bitis": "2027-03-31"
+    },
+    {
       "id": "2026-11-surum-150",
       "baslik": {
         "tr": "Yeni görevler ve kış işleri geldi!",
@@ -18,7 +37,10 @@
         "tr": "Haftalık ve sezonluk görevleri bitir, ödülünü al ya da reklam izleyerek artır. 5 günlük hava tahminiyle hasadı planla, şeker pancarı sök, tarladan taş topla, kışın yolları kür. Tarla kiralayıp satabilir, ürününü sigortalayabilirsin.",
         "en": "Finish weekly and seasonal challenges, then take the reward or boost it by watching an ad. Plan the harvest with the 5-day forecast, lift sugar beet, pick stones from fields and plow snow in winter. You can also rent and sell fields and insure your crops."
       },
-      "dugme": { "tr": "", "en": "" },
+      "dugme": {
+        "tr": "",
+        "en": ""
+      },
       "url": "",
       "min_surum": "1.5.0",
       "max_surum": "",
@@ -34,7 +56,10 @@
         "tr": "Biçerdöverde ALET → SAMAN SIRA ile saman sırası bırak, balya makinesiyle balyala, balya römorkuyla topla ve sundurmada biriktir ya da sat.",
         "en": "Leave a straw swath with TOOLS → STRAW SWATH on the combine, bale it, collect the bales with a bale wagon and stack them in the shed or sell them."
       },
-      "dugme": { "tr": "", "en": "" },
+      "dugme": {
+        "tr": "",
+        "en": ""
+      },
       "url": "",
       "min_surum": "1.4.0",
       "max_surum": "",
