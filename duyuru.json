@@ -1,13 +1,50 @@
 {
   "guncelleme": {
-    "en_son": "1.5.0",
+    "en_son": "1.7.1",
     "zorunlu_alt": "",
     "metin": {
-      "tr": "Yeni sürümde hava tahmini, şeker pancarı, taş toplama, kar küreme, haftalık görevler ve tarla kiralama var.",
-      "en": "The new version adds a weather forecast, sugar beet, stone picking, snow plowing, weekly challenges and field renting."
+      "tr": "Yeni sürüm: bazı telefonlarda oyunun kapanması düzeltildi (Galaxy A04, Lenovo Tab M8 ve benzeri MediaTek cihazlar). Ayrıca 8 dil, işçide önce tarla başı ve ağaç çarpışması. Güncellemeyi Play Store'dan indir.",
+      "en": "New version: fixes the game closing on some phones (Galaxy A04, Lenovo Tab M8 and similar MediaTek devices). Also 8 languages, workers do the headland first and tractors hit trees. Get the update on the Play Store.",
+      "ru": "Новая версия: исправлены вылеты на некоторых телефонах (Galaxy A04, Lenovo Tab M8 и похожие устройства MediaTek). Также 8 языков, работник сначала обрабатывает поворотную полосу, трактор не проезжает сквозь деревья. Обновитесь в Play Маркете.",
+      "es": "Nueva versión: corrige los cierres del juego en algunos teléfonos (Galaxy A04, Lenovo Tab M8 y otros MediaTek). Además, 8 idiomas, los trabajadores hacen primero la cabecera y los tractores chocan con los árboles. Actualiza en Play Store.",
+      "pt": "Nova versão: corrige o jogo fechando em alguns celulares (Galaxy A04, Lenovo Tab M8 e outros MediaTek). Também 8 idiomas, trabalhadores fazem a cabeceira primeiro e tratores batem nas árvores. Atualize na Play Store.",
+      "de": "Neue Version: behebt Abstürze auf einigen Handys (Galaxy A04, Lenovo Tab M8 und ähnliche MediaTek-Geräte). Außerdem 8 Sprachen, Arbeiter bearbeiten zuerst das Vorgewende und Traktoren fahren nicht mehr durch Bäume. Hol dir das Update im Play Store.",
+      "fr": "Nouvelle version : corrige les fermetures du jeu sur certains téléphones (Galaxy A04, Lenovo Tab M8 et appareils MediaTek similaires). Aussi 8 langues, les ouvriers font d'abord la tournière et les tracteurs ne traversent plus les arbres. Mettez à jour sur le Play Store.",
+      "id": "Versi baru: memperbaiki game yang tertutup sendiri di beberapa ponsel (Galaxy A04, Lenovo Tab M8 dan perangkat MediaTek serupa). Juga 8 bahasa, pekerja menggarap tepi ladang dulu dan traktor tidak menembus pohon. Perbarui di Play Store."
     }
   },
   "duyurular": [
+    {
+      "id": "2026-11-surum-170",
+      "baslik": {
+        "tr": "Oyun artık 8 dilde!",
+        "en": "The game is now in 8 languages!",
+        "ru": "Игра теперь на 8 языках!",
+        "es": "¡El juego ya está en 8 idiomas!",
+        "pt": "O jogo agora está em 8 idiomas!",
+        "de": "Das Spiel gibt es jetzt in 8 Sprachen!",
+        "fr": "Le jeu est maintenant en 8 langues !",
+        "id": "Game kini tersedia dalam 8 bahasa!"
+      },
+      "metin": {
+        "tr": "Rusça, İspanyolca, Portekizce, Almanca, Fransızca ve Endonezce eklendi; dili Ayarlar → Genel'den değiştirebilirsin.\n\nİşçiye verdiğin işlerde traktör önce tarlanın kenarını turlayıp sonra içini şerit şerit işliyor, dönüşleri tarla başında yapıyor. Traktörler artık ağaçların ve direklerin içinden geçmiyor.\n\nÖneri ve hata bildirimi için: k.syntax0@gmail.com",
+        "en": "Russian, Spanish, Portuguese, German, French and Indonesian have been added; change the language in Settings → General.\n\nWhen you hire a worker, the tractor now laps the field edge first and then works the inside strip by strip, turning on the headland. Tractors no longer drive through trees and poles.\n\nSuggestions and bug reports: k.syntax0@gmail.com",
+        "ru": "Добавлены русский, испанский, португальский, немецкий, французский и индонезийский; язык меняется в Настройки → Общие.\n\nРаботник теперь сначала объезжает край поля, затем обрабатывает его загонками и разворачивается на поворотной полосе. Тракторы больше не проезжают сквозь деревья и столбы.\n\nПредложения и сообщения об ошибках: k.syntax0@gmail.com",
+        "es": "Se han añadido ruso, español, portugués, alemán, francés e indonesio; cambia el idioma en Ajustes → General.\n\nCuando contratas a un trabajador, el tractor recorre primero el borde del campo y luego trabaja el interior por pasadas, girando en la cabecera. Los tractores ya no atraviesan árboles ni postes.\n\nSugerencias y errores: k.syntax0@gmail.com",
+        "pt": "Foram adicionados russo, espanhol, português, alemão, francês e indonésio; mude o idioma em Configurações → Geral.\n\nAo contratar um funcionário, o trator agora contorna primeiro a borda do campo e depois trabalha o interior em faixas, manobrando na cabeceira. Os tratores não atravessam mais árvores e postes.\n\nSugestões e erros: k.syntax0@gmail.com",
+        "de": "Neu: Russisch, Spanisch, Portugiesisch, Deutsch, Französisch und Indonesisch; die Sprache stellst du unter Einstellungen → Allgemein um.\n\nArbeiter fahren jetzt zuerst den Feldrand ab und bearbeiten dann das Innere Bahn für Bahn, gewendet wird im Vorgewende. Traktoren fahren nicht mehr durch Bäume und Masten.\n\nVorschläge und Fehlerberichte: k.syntax0@gmail.com",
+        "fr": "Ajout du russe, de l'espagnol, du portugais, de l'allemand, du français et de l'indonésien ; changez la langue dans Paramètres → Général.\n\nAvec un ouvrier, le tracteur fait d'abord le tour du champ puis travaille l'intérieur passage par passage, en tournant dans la fourrière. Les tracteurs ne traversent plus les arbres ni les poteaux.\n\nSuggestions et bugs : k.syntax0@gmail.com",
+        "id": "Bahasa Rusia, Spanyol, Portugis, Jerman, Prancis, dan Indonesia telah ditambahkan; ubah bahasa di Pengaturan → Umum.\n\nSaat menyewa pekerja, traktor kini mengitari tepi ladang dulu, lalu mengolah bagian dalam lajur demi lajur dan berputar di tepi ladang. Traktor tidak lagi menembus pohon dan tiang.\n\nSaran dan laporan bug: k.syntax0@gmail.com"
+      },
+      "dugme": {
+        "tr": "",
+        "en": ""
+      },
+      "url": "",
+      "min_surum": "1.7.0",
+      "max_surum": "",
+      "bitis": "2027-02-28"
+    },
     {
       "id": "2026-11-geri-bildirim",
       "baslik": {
