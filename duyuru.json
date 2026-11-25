@@ -1,19 +1,50 @@
 {
   "guncelleme": {
-    "en_son": "1.7.1",
+    "en_son": "1.8.0",
     "zorunlu_alt": "",
     "metin": {
-      "tr": "Yeni sürüm: bazı telefonlarda oyunun kapanması düzeltildi (Galaxy A04, Lenovo Tab M8 ve benzeri MediaTek cihazlar). Ayrıca 8 dil, işçide önce tarla başı ve ağaç çarpışması. Güncellemeyi Play Store'dan indir.",
-      "en": "New version: fixes the game closing on some phones (Galaxy A04, Lenovo Tab M8 and similar MediaTek devices). Also 8 languages, workers do the headland first and tractors hit trees. Get the update on the Play Store.",
-      "ru": "Новая версия: исправлены вылеты на некоторых телефонах (Galaxy A04, Lenovo Tab M8 и похожие устройства MediaTek). Также 8 языков, работник сначала обрабатывает поворотную полосу, трактор не проезжает сквозь деревья. Обновитесь в Play Маркете.",
-      "es": "Nueva versión: corrige los cierres del juego en algunos teléfonos (Galaxy A04, Lenovo Tab M8 y otros MediaTek). Además, 8 idiomas, los trabajadores hacen primero la cabecera y los tractores chocan con los árboles. Actualiza en Play Store.",
-      "pt": "Nova versão: corrige o jogo fechando em alguns celulares (Galaxy A04, Lenovo Tab M8 e outros MediaTek). Também 8 idiomas, trabalhadores fazem a cabeceira primeiro e tratores batem nas árvores. Atualize na Play Store.",
-      "de": "Neue Version: behebt Abstürze auf einigen Handys (Galaxy A04, Lenovo Tab M8 und ähnliche MediaTek-Geräte). Außerdem 8 Sprachen, Arbeiter bearbeiten zuerst das Vorgewende und Traktoren fahren nicht mehr durch Bäume. Hol dir das Update im Play Store.",
-      "fr": "Nouvelle version : corrige les fermetures du jeu sur certains téléphones (Galaxy A04, Lenovo Tab M8 et appareils MediaTek similaires). Aussi 8 langues, les ouvriers font d'abord la tournière et les tracteurs ne traversent plus les arbres. Mettez à jour sur le Play Store.",
-      "id": "Versi baru: memperbaiki game yang tertutup sendiri di beberapa ponsel (Galaxy A04, Lenovo Tab M8 dan perangkat MediaTek serupa). Juga 8 bahasa, pekerja menggarap tepi ladang dulu dan traktor tidak menembus pohon. Perbarui di Play Store."
+      "tr": "Yeni sürüm: işlerde ara ödeme (hakediş), toplu sözleşme, kariyeri başka haritaya taşıma, kilitli araçlara test sürüşü ve Başlangıç Paketi. Bazı telefonlarda oyunun kapanması da düzeltildi. Güncellemeyi Play Store'dan indir.",
+      "en": "New version: progress payments on jobs, bulk contracts, moving your career to another map, test drives for locked vehicles and the Starter Pack. Crashes on some phones are fixed too. Get the update on the Play Store.",
+      "ru": "Новая версия: промежуточные выплаты за работу, пакетные контракты, перенос карьеры на другую карту, тест-драйв закрытой техники и Стартовый набор. Также исправлены вылеты на некоторых телефонах. Обновитесь в Play Маркете.",
+      "es": "Nueva versión: pagos parciales en los trabajos, contratos por lotes, mover tu carrera a otro mapa, pruebas de conducción de vehículos bloqueados y el Pack de inicio. También se corrigen cierres en algunos teléfonos. Actualiza en Play Store.",
+      "pt": "Nova versão: pagamentos parciais nos trabalhos, contratos em lote, levar sua carreira para outro mapa, test drive de veículos bloqueados e o Pacote inicial. Também corrige o jogo fechando em alguns celulares. Atualize na Play Store.",
+      "de": "Neue Version: Abschlagszahlungen bei Aufträgen, Sammelverträge, Karriere auf eine andere Karte umziehen, Probefahrten mit gesperrten Fahrzeugen und das Starterpaket. Außerdem behobene Abstürze auf einigen Handys. Hol dir das Update im Play Store.",
+      "fr": "Nouvelle version : acomptes sur les contrats, contrats groupés, transfert de carrière sur une autre carte, essais des véhicules verrouillés et Pack de démarrage. Les plantages sur certains téléphones sont aussi corrigés. Mettez à jour sur le Play Store.",
+      "id": "Versi baru: pembayaran bertahap untuk pekerjaan, kontrak borongan, pindahkan karier ke peta lain, uji coba kendaraan terkunci, dan Paket Pemula. Juga memperbaiki game yang tertutup sendiri di beberapa ponsel. Perbarui di Play Store."
     }
   },
   "duyurular": [
+    {
+      "id": "2026-11-surum-180",
+      "baslik": {
+        "tr": "Yenilikler: hakediş ve toplu sözleşme",
+        "en": "What's new: progress payments and bulk contracts",
+        "ru": "Новое: промежуточные выплаты и пакетные контракты",
+        "es": "Novedades: pagos parciales y contratos por lotes",
+        "pt": "Novidades: pagamentos parciais e contratos em lote",
+        "de": "Neu: Abschlagszahlungen und Sammelverträge",
+        "fr": "Nouveautés : acomptes et contrats groupés",
+        "id": "Baru: pembayaran bertahap dan kontrak borongan"
+      },
+      "metin": {
+        "tr": "Aktif işte tarlanın %25, %50 ve %75'ine ulaştıkça ara ödeme alırsın; kalanı iş bitince gelir.\n\nİş panosunda üç büyük işi tek sözleşmeyle alabilirsin: hepsini süresinde bitirirsen %25 prim.\n\nKariyerini Kariyerler → Harita ile başka bir haritaya taşıyabilirsin; paran ve makinelerin seninle gelir.\n\nSerbest sürüşte kilitli araçları günde bir kez 5 dakika deneyebilirsin. Mağazada yeni Başlangıç Paketi var: reklamsız oyun, Dağlık harita ve Ostrell 98 bir arada.",
+        "en": "On an active job you now get paid as the field reaches 25%, 50% and 75%; the rest comes when the job is done.\n\nOn the job board you can take three big jobs as one contract: finish them all in time for a 25% bonus.\n\nMove your career to another map from Careers → Map; your money and machines come with you.\n\nIn free play you can try locked vehicles for 5 minutes once a day. The shop has a new Starter Pack: ad-free play, the Mountain map and the Ostrell 98 together.",
+        "ru": "За активную работу теперь платят по мере выполнения: на 25%, 50% и 75% поля, остальное — по завершении.\n\nНа доске заказов можно взять три крупные работы одним контрактом: успейте в срок и получите премию 25%.\n\nКарьеру можно перенести на другую карту в разделе Карьеры → Карта; деньги и техника переедут с вами.\n\nВ свободной игре закрытую технику можно раз в день опробовать 5 минут. В магазине новый Стартовый набор: игра без рекламы, карта «Горы» и Ostrell 98.",
+        "es": "En un trabajo activo ahora cobras a medida que el campo llega al 25%, 50% y 75%; el resto al terminar.\n\nEn el tablón puedes tomar tres trabajos grandes como un solo contrato: termínalos a tiempo y obtén un 25% extra.\n\nLleva tu carrera a otro mapa desde Carreras → Mapa; tu dinero y tus máquinas van contigo.\n\nEn modo libre puedes probar vehículos bloqueados 5 minutos una vez al día. En la tienda hay un nuevo Pack de inicio: sin anuncios, el mapa Montañas y el Ostrell 98.",
+        "pt": "Num trabalho ativo você agora recebe conforme o campo chega a 25%, 50% e 75%; o resto ao terminar.\n\nNo quadro de trabalhos dá para pegar três trabalhos grandes num só contrato: termine todos no prazo e ganhe 25% de bônus.\n\nLeve sua carreira para outro mapa em Carreiras → Mapa; seu dinheiro e suas máquinas vão junto.\n\nNo modo livre você pode testar veículos bloqueados por 5 minutos uma vez por dia. A loja tem um novo Pacote inicial: sem anúncios, o mapa Montanhas e o Ostrell 98.",
+        "de": "Bei einem laufenden Auftrag wirst du jetzt bezahlt, sobald das Feld 25%, 50% und 75% erreicht; der Rest kommt am Ende.\n\nAm Auftragsbrett kannst du drei große Aufträge als einen Vertrag annehmen: alle rechtzeitig fertig bringt 25% Bonus.\n\nZieh deine Karriere unter Karrieren → Karte auf eine andere Karte um; Geld und Maschinen kommen mit.\n\nIm freien Spiel kannst du gesperrte Fahrzeuge einmal am Tag 5 Minuten testen. Im Shop gibt es ein neues Starterpaket: werbefrei, die Karte Berge und der Ostrell 98.",
+        "fr": "Sur un contrat en cours, vous êtes payé quand le champ atteint 25 %, 50 % et 75 % ; le reste à la fin.\n\nSur le tableau des contrats, prenez trois gros contrats en un seul : terminez-les à temps pour 25 % de prime.\n\nTransférez votre carrière sur une autre carte via Carrières → Carte ; votre argent et vos machines vous suivent.\n\nEn jeu libre, essayez les véhicules verrouillés 5 minutes une fois par jour. La boutique propose un nouveau Pack de démarrage : sans pub, la carte Montagnes et l'Ostrell 98.",
+        "id": "Pada pekerjaan aktif kini kamu dibayar saat ladang mencapai 25%, 50%, dan 75%; sisanya saat selesai.\n\nDi papan pekerjaan kamu bisa mengambil tiga pekerjaan besar sebagai satu kontrak: selesaikan tepat waktu untuk bonus 25%.\n\nPindahkan karier ke peta lain lewat Karier → Peta; uang dan mesinmu ikut pindah.\n\nDi mode bebas kamu bisa mencoba kendaraan terkunci 5 menit sekali sehari. Toko punya Paket Pemula baru: tanpa iklan, peta Pegunungan, dan Ostrell 98."
+      },
+      "dugme": {
+        "tr": "",
+        "en": ""
+      },
+      "url": "",
+      "min_surum": "1.8.0",
+      "max_surum": "",
+      "bitis": "2027-03-31"
+    },
     {
       "id": "2026-11-surum-170",
       "baslik": {
